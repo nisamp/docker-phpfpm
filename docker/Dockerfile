@@ -1,3 +1,3 @@
-FROM php:8.0.2-fpm
+FROM php:8.1.6-fpm
 
 WORKDIR /var/www
